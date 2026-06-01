@@ -17,10 +17,10 @@ I also create content and share knowledge on **software development, SaaS, and t
     <img src="https://img.shields.io/badge/GitHub-DANIELDEALCANTARASANTOS-181717?style=for-the-badge&logo=github" />
   </a>
   <a href="https://instagram.com/danielldealcantara">
-    <img src="https://img.shields.io/badge/Instagram-@DANIELLDEALCANTARA-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-@danielldealcantara-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://www.tiktok.com/@danieldealcantaraa">
-    <img src="https://img.shields.io/badge/TikTok-@DANIELLDEALCANTARA-000000?style=for-the-badge&logo=tiktok" />
+    <img src="https://img.shields.io/badge/TikTok-@danieldealcantaraa-000000?style=for-the-badge&logo=tiktok" />
   </a>
   <a href="https://www.youtube.com/@danielldealcantara">
     <img src="https://img.shields.io/badge/YouTube-DANIEL%20DE%20ALCANTARA-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
@@ -38,7 +38,7 @@ I also create content and share knowledge on **software development, SaaS, and t
 -   💳 Payments, subscriptions & business logic
 -   🤖 Automation & integrations
 -   📊 Dashboards & analytics
--   🎥 Creating content for developers and tech entrepreneurs
+-   🎓 Teaching & mentoring developers
 
 ---
 
@@ -56,11 +56,7 @@ I also create content and share knowledge on **software development, SaaS, and t
 ### Backend
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql)
 
 ### DevOps & Tools
 
@@ -90,4 +86,4 @@ I also create content and share knowledge on **software development, SaaS, and t
 ---
 
 ⭐ If you like my work, consider starring a repository  
-🤝 Open to SaaS projects, partnerships, and business opportunities
+🤝 Always open to collaborations, partnerships, and cool ideas
