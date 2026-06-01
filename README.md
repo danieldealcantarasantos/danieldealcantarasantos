@@ -1,6 +1,6 @@
 # Hi 👋, I'm Daniel de Alcântara
 
-🚀 **Senior Software Engineer | JavaScript & .NET Specialist**  
+🚀 **Junior Software Engineer | JavaScript & HTML/CSS Specialist**  
 🇧🇷 Brazil
 
 I build **scalable products**, **SaaS platforms**, and **high-performance web systems**.  
