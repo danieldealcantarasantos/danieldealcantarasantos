@@ -17,7 +17,7 @@ I also create content and share knowledge on **software development, SaaS, and t
     <img src="https://img.shields.io/badge/GitHub-DANIELDEALCANTARASANTOS-181717?style=for-the-badge&logo=github" />
   </a>
   <a href="https://instagram.com/danielldealcantara">
-    <img src="https://img.shields.io/badge/Instagram-@danielldealcantara-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-@danieldealcantara-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://www.tiktok.com/@danieldealcantaraa">
     <img src="https://img.shields.io/badge/TikTok-@danieldealcantaraa-000000?style=for-the-badge&logo=tiktok" />
