@@ -73,7 +73,7 @@ I also create content and share knowledge on **software development, SaaS, and t
 
 <p align="left">
   <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=danieldealcantarasantos&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danieldealcantarasantos&layout=compact&theme=tokyonight" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=danieldealcantarasantos&theme=tokyonight" />
 </p>
 
 ---
