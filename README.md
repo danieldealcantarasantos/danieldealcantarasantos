@@ -1,4 +1,4 @@
-# Hi 👋, I'm Herbert Souza
+# Hi 👋, I'm Daniel de Alcântara
 
 🚀 **Senior Software Engineer | JavaScript & .NET Specialist**  
 🇧🇷 Brazil
@@ -23,7 +23,7 @@ I also create content and share knowledge on **software development, SaaS, and t
     <img src="https://img.shields.io/badge/TikTok-@danieldealcantaraa-000000?style=for-the-badge&logo=tiktok" />
   </a>
   <a href="https://www.youtube.com/@danielldealcantara">
-    <img src="https://img.shields.io/badge/YouTube-O%20REI%20DO%20SITES-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+    <img src="https://img.shields.io/badge/YouTube-DANIEL%20DE%20ALCANTARA-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
 </p>
 
